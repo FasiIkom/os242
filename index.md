@@ -3,7 +3,7 @@
 
 # OS242: FasiIkom
 
-[TIPS](TIPS/){:target="_blank"} --- [LINKS](LINKS/){:target="_blank"} --- [LOG](https://github.com/FasiIkom/os242/blob/master/TXT/mylog.txt){:target="_blank"} --- [GitHub](https://github.com/FasiIkom/os242.git){:target="_blank"}
+[HOME](https://fasiikom.github.io/os242/){:target="_blank"} --- [LINKS](LINKS/){:target="_blank"} --- [LOG](https://github.com/FasiIkom/os242/blob/master/TXT/mylog.txt){:target="_blank"} --- [GitHub](https://github.com/FasiIkom/os242.git){:target="_blank"}
 
 <br>
 
