@@ -8,15 +8,14 @@ permalink: LINKS/
 
 * [https://os.vlsm.org/](https://os.vlsm.org/) ---
   Operating System course of Fasilkom UI's website.
-* [System Programming](https://sp.vlsm.org/) ---
-  This site is based on “Google Here, Google There, Try This, Try That, and then Ask Anybody.
-* [Operating Systems Programming Weekly Assignments](https://demos.vlsm.org/) ---
-  The Deadline is 7 (seven) days after the assignment was announced.
-* [Operating Systems Programming Slides](https://docos.vlsm.org/) ---
-  Slides with LaTeX sources code.
-* [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg) ---
-Some easy-to-use commands you can use to inspect hardware. 
-These commands will help you list PCI devices, view information about your CPU, and more.
+* [https://scele.cs.ui.ac.id/course/view.php?id=3841](https://scele.cs.ui.ac.id/course/view.php?id=3841) ---
+  SCELE links of Operating System course.
+* [https://demos.vlsm.org/](https://demos.vlsm.org/) ---
+  Operating System weekly asssignments.
+* [https://docos.vlsm.org/](https://docos.vlsm.org/) ---
+  Operating Systems Programming Slides.
+* [https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg) ---
+  Linux Crash Course - Easy Terminal Commands for Inspecting Hardware. 
 <br>
 <br>
 #### REV: Fri 06 Sep 2024 22.53
