@@ -18,5 +18,5 @@ permalink: LINKS/
   Linux Crash Course - Easy Terminal Commands for Inspecting Hardware. 
 <br>
 <br>
-#### REV: Fri 06 Sep 2024 22.53
+#### REV: Sun 08 Sep 2024 21.21
 <hr>
