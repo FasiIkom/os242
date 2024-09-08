@@ -6,8 +6,8 @@ permalink: LINKS/
 
 # LINKS
 
-* [Operating Systems](https://os.vlsm.org/) ---
-  This site contains links to lecture materials, exam questions, and laboratory materials.
+* [https://os.vlsm.org/](https://os.vlsm.org/) ---
+  Operating System course of Fasilkom UI's website.
 * [System Programming](https://sp.vlsm.org/) ---
   This site is based on “Google Here, Google There, Try This, Try That, and then Ask Anybody.
 * [Operating Systems Programming Weekly Assignments](https://demos.vlsm.org/) ---
