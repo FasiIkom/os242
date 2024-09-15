@@ -25,5 +25,5 @@ permalink: LINKS/
   A Youtube video explain what is private key and public key.
 <br>
 <br>
-#### REV: Sun 08 Sep 2024 21.21
+#### REV: Sun 15 Sep 2024 19.20
 <hr>
