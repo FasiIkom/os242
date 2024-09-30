@@ -24,7 +24,7 @@ permalink: LINKS/
 * [https://youtu.be/dPAw4opzN9g?si=l6ETi6RWNXiSq765](https://youtu.be/dPAw4opzN9g?si=l6ETi6RWNXiSq765) ---
   A Youtube video explain what is private key and public key.
 
-## WEEK 02
+## WEEK 03
 * [https://youtu.be/VM64fH6tEEU?si=XJ1498e7bvH7Kgtn](https://youtu.be/VM64fH6tEEU?si=XJ1498e7bvH7Kgtn) ---
   A Youtube video explain how to change username or hostname in Linux.
 * [https://youtu.be/J32ZM0XsnI8?si=ppxAZBdaS5ss0HZm](https://youtu.be/J32ZM0XsnI8?si=ppxAZBdaS5ss0HZm) ---
@@ -35,8 +35,20 @@ permalink: LINKS/
   Different between RSA, DSA, ECDSA, and EdDSA.
 * [https://www.purdue.edu/science/scienceit/ssh-keys-windows.html](https://www.purdue.edu/science/scienceit/ssh-keys-windows.html) ---
   How to create and use SSH Keys.
+
+  ## WEEK 04
+* [https://www.cs.cornell.edu/courses/cs5220/2017fa/tar-info.html](https://www.cs.cornell.edu/courses/cs5220/2017fa/tar-info.html) ---
+  Website explain what is tarball and how to work with it.
+* [https://www.geeksforgeeks.org/what-is-a-linux-server-and-why-use-it/](https://www.geeksforgeeks.org/what-is-a-linux-server-and-why-use-it/) ---
+  What is server on linux.
+* [https://www.udemy.com/topic/operating-system/](https://www.udemy.com/topic/operating-system/) ---
+  Operating System online course.
+* [https://pcmag.com/comparisons/android-vs-ios-which-mobile-os-is-best](https://pcmag.com/comparisons/android-vs-ios-which-mobile-os-is-best) ---
+  Comparing 2 of the mobile's OS.
+* [https://www.geeksforgeeks.org/linux-history/](https://www.geeksforgeeks.org/linux-history/) ---
+  History of Linux.
   
 <br>
 <br>
-#### REV: Tue 24 Sep 2024 14.31
+#### REV: Tue 1 Oct 2024 01.02
 <hr>
