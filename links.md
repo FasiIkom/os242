@@ -36,7 +36,7 @@ permalink: LINKS/
 * [https://www.purdue.edu/science/scienceit/ssh-keys-windows.html](https://www.purdue.edu/science/scienceit/ssh-keys-windows.html) ---
   How to create and use SSH Keys.
 
-  ## WEEK 04
+## WEEK 04
 * [https://www.cs.cornell.edu/courses/cs5220/2017fa/tar-info.html](https://www.cs.cornell.edu/courses/cs5220/2017fa/tar-info.html) ---
   Website explain what is tarball and how to work with it.
 * [https://www.geeksforgeeks.org/what-is-a-linux-server-and-why-use-it/](https://www.geeksforgeeks.org/what-is-a-linux-server-and-why-use-it/) ---
@@ -50,5 +50,5 @@ permalink: LINKS/
   
 <br>
 <br>
-#### REV: Tue 1 Oct 2024 01.02
+#### REV: Tue 1 Oct 2024 01.03
 <hr>
