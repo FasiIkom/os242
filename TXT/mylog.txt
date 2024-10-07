@@ -2,6 +2,26 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
+ZCZC W05 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W05 60 L23 Bash, Regex, SED, AWK.
+ZCZC W05 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 350 L81 Listening: Radio, Music, etc.
+ZCZC W05 120 L82 Reading Book (paper or online)
+ZCZC W05 30 L83 Pets: feeding, playing, etc
+ZCZC W05 900 L84 Relax, Rest, Nap, and Sleep
+ZCZC W05 400 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W05 100 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W05 300 L70 Studying for other courses.
+ZCZC W05 150 L73 Gaming including Board Games
+ZCZC W05 40 L32 YouTube: watching OS related topics
+ZCZC W05 90 L70 Studying for other courses.
+ZCZC W05 40 L11 Assignment #01
+ZCZC W05 40 L12 Assignment #02
+ZCZC W05 30 L13 Assignment #03
+ZCZC W05 80 L14 Assignment #04
+ZCZC W05 40 L15 Assignment #05
+
 ZCZC W04 150 L73 Gaming including Board Games
 ZCZC W04 40 L32 YouTube: watching OS related topics
 ZCZC W04 90 L70 Studying for other courses.
