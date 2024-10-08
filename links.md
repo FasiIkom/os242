@@ -23,7 +23,13 @@ permalink: LINKS/
   A Youtube video explain how GNUPG works.
 * [https://youtu.be/dPAw4opzN9g?si=l6ETi6RWNXiSq765](https://youtu.be/dPAw4opzN9g?si=l6ETi6RWNXiSq765) ---
   A Youtube video explain what is private key and public key.
-
+* [https://youtu.be/GSIDS_lvRv4?si=wSvGVN09ThhxhwIw](https://youtu.be/GSIDS_lvRv4?si=wSvGVN09ThhxhwIw) ---
+  A YouTube video that explains how asymmetric encryption works.
+* [https://youtu.be/5E5wmaAe1cY?si=XHf8GPdi5RAQ0-pQ](https://youtu.be/5E5wmaAe1cY?si=XHf8GPdi5RAQ0-pQ) ---
+  A YouTube video that demonstrates how to generate and use GPG keys.
+* [https://youtu.be/NmM9HA2MQGI?si=ojB2nWpAMibVZZBM](https://youtu.be/NmM9HA2MQGI?si=ojB2nWpAMibVZZBM) ---
+  A YouTube video explaining the fundamentals of encryption and how it secures data.
+  
 ## WEEK 03
 * [https://youtu.be/VM64fH6tEEU?si=XJ1498e7bvH7Kgtn](https://youtu.be/VM64fH6tEEU?si=XJ1498e7bvH7Kgtn) ---
   A Youtube video explain how to change username or hostname in Linux.
@@ -47,6 +53,18 @@ permalink: LINKS/
   Comparing 2 of the mobile's OS.
 * [https://www.geeksforgeeks.org/linux-history/](https://www.geeksforgeeks.org/linux-history/) ---
   History of Linux.
+
+## WEEK 05
+* [https://www.tutorialspoint.com/operating_system/os_overview.htm](https://www.tutorialspoint.com/operating_system/os_overview.htm) ---
+  Overview of operating systems, including types and functionalities.
+* [https://www.ibm.com/docs/en/aix/7.2?topic=concepts-operating-system-overview](https://www.ibm.com/docs/en/aix/7.2?topic=concepts-operating-system-overview) ---
+  IBM's documentation on the basics of operating systems and their components.
+* [https://opensource.com/resources/what-is-linux](https://opensource.com/resources/what-is-linux) ---
+  Explanation about what Linux is and why it's important.
+* [https://www.linuxfoundation.org/what-is-linux](https://www.linuxfoundation.org/what-is-linux) ---
+  Information from the Linux Foundation on the role of Linux in modern computing.
+* [https://www.howtogeek.com/413759/what-is-a-virtual-machine-vm/](https://www.howtogeek.com/413759/what-is-a-virtual-machine-vm/) ---
+  An introduction to virtual machines and how they work.
   
 <br>
 <br>
