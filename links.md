@@ -65,8 +65,19 @@ permalink: LINKS/
   Information from the Linux Foundation on the role of Linux in modern computing.
 * [https://www.howtogeek.com/413759/what-is-a-virtual-machine-vm/](https://www.howtogeek.com/413759/what-is-a-virtual-machine-vm/) ---
   An introduction to virtual machines and how they work.
-  
+
+## WEEK 06
+* [https://www.geeksforgeeks.org/introduction-to-linux-commands/](https://www.geeksforgeeks.org/introduction-to-linux-commands/) ---
+  An introduction to basic Linux commands and their usage.
+* [https://www.tldp.org/LDP/abs/html/](https://www.tldp.org/LDP/abs/html/) ---
+  The Advanced Bash-Scripting Guide, covering shell scripting in detail.
+* [https://www.digitalocean.com/community/tutorials/understanding-linux-processes](https://www.digitalocean.com/community/tutorials/understanding-linux-processes) ---
+  A guide to understanding processes in Linux and how to manage them.
+* [https://www.howtogeek.com/446020/how-to-use-the-linux-find-command-to-search-for-files/](https://www.howtogeek.com/446020/how-to-use-the-linux-find-command-to-search-for-files/) ---
+  A tutorial on using the find command in Linux to locate files and directories.
+* [https://www.udacity.com/course/operating-systems--ud923](https://www.udacity.com/course/operating-systems--ud923) ---
+  A comprehensive online course on operating systems offered by Udacity.
 <br>
 <br>
-#### REV: Tue 8 Oct 2024 11.07
+#### REV: Tue 27 Oct 2024 18.15
 <hr>
