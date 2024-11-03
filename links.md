@@ -77,7 +77,14 @@ permalink: LINKS/
   A tutorial on using the find command in Linux to locate files and directories.
 * [https://www.udacity.com/course/operating-systems--ud923](https://www.udacity.com/course/operating-systems--ud923) ---
   A comprehensive online course on operating systems offered by Udacity.
+
+## WEEK 07
+* [https://www.redhat.com/sysadmin/linux-file-system-structure](https://www.redhat.com/sysadmin/linux-file-system-structure) --- A guide to understanding the Linux file system structure and its directories.
+* [https://www.makeuseof.com/tag/linux-permissions-beginners-guide/](https://www.makeuseof.com/tag/linux-permissions-beginners-guide/) --- A beginner's guide to understanding and managing permissions in Linux.
+* [https://www.codecademy.com/learn/learn-the-command-line](https://www.codecademy.com/learn/learn-the-command-line) --- A free online course by Codecademy covering command-line basics.
+* [https://phoenixnap.com/kb/linux-file-permissions](https://phoenixnap.com/kb/linux-file-permissions) --- An article explaining Linux file permissions and how to modify them.
+* [https://www.tutorialspoint.com/what-is-linux-kernel-and-how-it-works](https://www.tutorialspoint.com/what-is-linux-kernel-and-how-it-works) --- Overview of the Linux kernel and its functions within the operating system.
 <br>
 <br>
-#### REV: Tue 27 Oct 2024 18.15
+#### REV: Sun 3 Nov 2024 18.15
 <hr>
