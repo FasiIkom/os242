@@ -84,7 +84,14 @@ permalink: LINKS/
 * [https://www.codecademy.com/learn/learn-the-command-line](https://www.codecademy.com/learn/learn-the-command-line) --- A free online course by Codecademy covering command-line basics.
 * [https://phoenixnap.com/kb/linux-file-permissions](https://phoenixnap.com/kb/linux-file-permissions) --- An article explaining Linux file permissions and how to modify them.
 * [https://www.tutorialspoint.com/what-is-linux-kernel-and-how-it-works](https://www.tutorialspoint.com/what-is-linux-kernel-and-how-it-works) --- Overview of the Linux kernel and its functions within the operating system.
+
+## WEEK 08
+* [https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files](https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files) --- A guide on managing services using systemd in Linux.
+* [https://www.linux.com/training-tutorials/introduction-networking-linux/](https://www.linux.com/training-tutorials/introduction-networking-linux/) --- An introduction to basic network configuration on Linux systems.
+* [https://www.redhat.com/sysadmin/linux-security-basics](https://www.redhat.com/sysadmin/linux-security-basics) --- Best practices for enhancing Linux system security.
+* [https://www.geeksforgeeks.org/add-remove-users-linux/](https://www.geeksforgeeks.org/add-remove-users-linux/) --- How to add and remove users and manage groups in Linux.
+* [https://www.tldp.org/LDP/abs/html/](https://www.tldp.org/LDP/abs/html/) ---  Advanced techniques in writing shell scripts in Linux.
 <br>
 <br>
-#### REV: Sun 3 Nov 2024 18.15
+#### REV: Tue 12 Nov 2024 01.52
 <hr>
