@@ -114,14 +114,7 @@ permalink: LINKS/
 * [https://www.ibm.com/developerworks/linux/library/l-linux-intro/index.html](https://www.ibm.com/developerworks/linux/library/l-linux-intro/index.html) ---
   IBM's introduction to Linux basics.
 
-## WEEK 10
-* [https://www.linuxjournal.com/](https://www.linuxjournal.com/) --- A leading resource for Linux news and information.
-* [https://www.kernel.org/doc/html/latest/](https://www.kernel.org/doc/html/latest/) --- Official Linux kernel documentation.
-* [https://www.cyberciti.biz/tips/top-linux-monitoring-tools.html](https://www.cyberciti.biz/tips/top-linux-monitoring-tools.html) --- Top Linux monitoring tools for system admins.
-* [https://www.reddit.com/r/linux/](https://www.reddit.com/r/linux/) --- Reddit community for Linux users.
-* [https://linuxize.com/](https://linuxize.com/) --- Tutorials and tips for Linux users.
-
 <br>
 <br>
-#### REV: Tue 19 Nov 2024 04.39
+#### REV: Tue 19 Nov 2024 11.43
 <hr>
